@@ -14,7 +14,7 @@ Everything useful for making games will be listed below.
 ### i. Template Assets
 - *Prefabs, project templates, or boilerplate code for quick setup.*
 ### ii. Shader Kits
-- (Shader Library)[https://lygia.xyz/]
+- [超实用Shader Library](https://lygia.xyz/)
 ### iii. Libraries
 - *Code libraries, plugins, or SDKs (e.g., AI, physics, networking).*
 ### iv. etc.
