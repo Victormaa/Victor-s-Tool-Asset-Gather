@@ -13,6 +13,7 @@ Everything useful for making games will be listed below.
 ## 2. Game Development
 ### i. Template Assets
 - *Prefabs, project templates, or boilerplate code for quick setup.*
+- [鼠标控制飞行器的Controller](https://github.com/brihernandez/MouseFlight)
 ### ii. Shader Kits
 - [Shader Library - 常用的Shader库，可作为Asset导入Unity](https://lygia.xyz/)
 - [一些有意思的ShaderGraph的教程（较有艺术效果）](https://www.cyanilux.com/)
