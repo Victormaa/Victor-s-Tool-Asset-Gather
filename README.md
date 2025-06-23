@@ -14,7 +14,8 @@ Everything useful for making games will be listed below.
 ### i. Template Assets
 - *Prefabs, project templates, or boilerplate code for quick setup.*
 ### ii. Shader Kits
-- [超实用Shader Library](https://lygia.xyz/)
+- [Shader Library - 常用的Shader库，可作为Asset导入Unity](https://lygia.xyz/)
+- [一些有意思的ShaderGraph的教程（较有艺术效果）](https://www.cyanilux.com/)
 ### iii. Libraries
 - *Code libraries, plugins, or SDKs (e.g., AI, physics, networking).*
 ### iv. etc.
