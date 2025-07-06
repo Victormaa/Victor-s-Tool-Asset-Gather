@@ -8,6 +8,7 @@ Everything useful for making games will be listed below.
 ### i. Game Design Articles
 - *Articles, books, or blogs about game mechanics, storytelling, etc.*
 - [一个可以把Excel转换成MarkDown的网站](https://tableconvert.com/excel-to-markdown)
+- [从Excel格式到Inky格式的剧本的转换Prompt](https://github.com/Victormaa/Victor-s-Tool-Asset-Gather/blob/main/PromptForLLM_Excel_Script_Convertor)
 
 ---
 
