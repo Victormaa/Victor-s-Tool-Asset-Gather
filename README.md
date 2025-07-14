@@ -18,6 +18,7 @@ Everything useful for making games will be listed below.
 - [鼠标控制飞行器的Controller](https://github.com/brihernandez/MouseFlight)
 - [一些不同功能模块(Camera,UI Control)](https://adventurecreator.org/downloads)
 - [The Best 2D Controller](https://github.com/Matthew-J-Spencer/Ultimate-2D-Controller/tree/main)(等待移除ParticleSystem版本)
+- [first person controller (ss)](https://github.com/Hertzole/gold-player)
 ### ii. Shader Kits
 - [Shader Library - 常用的Shader库，可作为Asset导入Unity](https://lygia.xyz/)
 - [一些有意思的ShaderGraph的教程（较有艺术效果）](https://www.cyanilux.com/)
