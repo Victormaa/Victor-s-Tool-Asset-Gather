@@ -24,6 +24,7 @@ Everything useful for making games will be listed below.
 - [Shader Library - 常用的Shader库，可作为Asset导入Unity](https://lygia.xyz/)
 - [一些有意思的ShaderGraph的教程（较有艺术效果）](https://www.cyanilux.com/)
 - [可交互的2D草叶的shader](https://github.com/aarthificial/pixelgraphics)
+- [关于2D Sprite 发光的Shader教程](https://www.youtube.com/watch?v=Tm0rRX8GnFk)
 ### iii. Libraries
 - *Code libraries, plugins, or SDKs (e.g., AI, physics, networking).*
 ### iv. etc.
