@@ -29,6 +29,8 @@ Everything useful for making games will be listed below.
 - *Code libraries, plugins, or SDKs (e.g., AI, physics, networking).*
 ### iv. etc.
 - *Miscellaneous tools (e.g., level editors, dialogue systems).*
+- [2DSprite + 光照UV的软件(提升2D光照观感)](https://lygia.xyz/)
+- [如何提升2D游戏的画面表现（Lighting - Particle - ScreenShake - Squezee(压缩的维度之和还是需要为2) + PostProcessing）](https://www.youtube.com/watch?v=pknKu03myC4)
 
 ---
 
