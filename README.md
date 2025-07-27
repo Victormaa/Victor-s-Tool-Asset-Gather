@@ -44,7 +44,8 @@ Everything useful for making games will be listed below.
 - *Other art resources (e.g., brushes, color palettes).*
 
 ## 4. 初学项目
-- [Navmesh 学习项目](https://github.com/Brackeys/NavMesh-Tutorial)
+- [Navmesh 学习项目-1](https://github.com/Brackeys/NavMesh-Tutorial)
+- [Navmesh 学习项目-2](https://learn.unity.com/tutorial/unity-navmesh)
 
 ---
 
