@@ -46,6 +46,7 @@ Everything useful for making games will be listed below.
 ## 4. 初学项目
 - [Navmesh 学习项目-1](https://github.com/Brackeys/NavMesh-Tutorial)
 - [Navmesh 学习项目-2](https://learn.unity.com/tutorial/unity-navmesh)
+- [设计模式 - 总结一览](https://refactoringguru.cn/design-patterns/catalog)
 
 ---
 
