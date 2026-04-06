@@ -43,6 +43,8 @@ Serach Tag #Tool #Blog
 - *Sprites, tilesets, UI kits, or pixel art tools.*
 ### ii. 3D Assets
 - *Models, textures, animations, or rigging tools.*
+- [Kenney.nl](https://kenney.nl/)
+- [超多unity3D的素材](https://www.humblebundle.com/software/battle-hardened-game-asset-bundle-hivemind-software?srsltid=AfmBOoo-KHMXO5xOX7gOd2-zBXGAxLIOpUxGEhbm-3gc1uGmvk4xR4KI)
 ### iii. etc.
 - *Other art resources (e.g., brushes, color palettes).*
 
